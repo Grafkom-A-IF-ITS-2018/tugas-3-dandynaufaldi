@@ -1,4 +1,8 @@
 # Tugas-3
+## Salam
+Terima kasih banyak kepada [Ferdinand](https://github.com/ferdinandjason). Anda luar biasa. Kontribusi saya cuma metode deteksi tubrukan dengan menghitung jarak titik ke persamaan bidang normal yang sudah saya terapkan dari tugas 2 yang lalu, ternyata aljabar linier bisa kepakai juga.
+Terima kasih Grafkom A
+
 ## Objektif
 Memodifikasi file `index.html` dari Tugas-2 masing-masing agar bila dibuka di *browser* bisa menampilkan canvas WebGL secara *full screen* dengan 4 (empat) buah *frame*. Obyek kubus yang ada di Tugas-2 diberi *texture* pada ketiga sisinya dan dibiarkan terbuka di ketiga sisi lainnya sebagaimana tampak pada ilustrasi di bawah. *Texture* pada kubus mendapat iluminasi *ambient light* bewarna putih sebesar **0.2**. Selebihnya, tambahkan sebuah *point light* bewarna terserah (Anda boleh pilih warna apapun, tapi samakan dengan warna huruf) yang posisinya senantiasa berubah mengikuti posisi pusat dari huruf.
 ## Deskripsi Frame-frame
